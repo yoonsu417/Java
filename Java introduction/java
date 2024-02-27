@@ -1,0 +1,12 @@
+* hello.java -> hello.class -> hello.class
+
+* hello.java -> hello.class : javac Hello.java (자바 컴파일러)
+    컴파일 단계
+    javac 프로그램 사용
+    .java -> .class 파일 생성
+    자바 소스 코드를 바이트코드로 변환
+
+* hello.class -> hello.class(자바 가상 머신 안의 class) : Java hello 프로그램 실행
+    자바 프로그램 실행
+    java 프로그램 사용
+    자바 가상 머신(JVM) 실행, 프로그램 작동
